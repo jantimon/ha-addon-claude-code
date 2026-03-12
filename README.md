@@ -74,7 +74,7 @@ well. Additionally, it comes out of the box with the following:
 - Contains a sensible set of tools right out of the box: curl, Wget, RSync, GIT,
   Nmap, Mosquitto client, MariaDB/MySQL client, Awake ("wake on LAN"), Nano,
   Vim, tmux, and a bunch commonly used networking tools.
-- **[Claude Code][claude-code] v2.1.72** pre-installed for AI-assisted Home Assistant
+- **[Claude Code][claude-code]** pre-installed for AI-assisted Home Assistant
   configuration and automation development.
 - **yamllint** included for validating YAML configuration files.
 
